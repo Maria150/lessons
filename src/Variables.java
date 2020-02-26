@@ -10,7 +10,7 @@ public class Variables {
     int carsSpeed;
     int userEnteredNumber;
     int biggestNumber;
-    int lovesNumber;
+    int smallestNumber;
     int leftBoarderOfRangeOfNumber;
     int rightBoarderOfRangeOfNumber;
     int numberThoughtByUser;
